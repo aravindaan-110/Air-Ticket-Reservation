@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "739385738205",
+    "firebase_url": "https://airplane-ticket-reservation.firebaseio.com",
+    "project_id": "airplane-ticket-reservation",
+    "storage_bucket": "airplane-ticket-reservation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739385738205:android:b20ed2198b23203355ec34",
+        "android_client_info": {
+          "package_name": "com.example.airplaneticketreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739385738205-srqvoqugjjn7dbi7gcb1v2o75299np93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF7NACciO9tYqy1TTInRTxgDz9F4LjuWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739385738205-srqvoqugjjn7dbi7gcb1v2o75299np93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
